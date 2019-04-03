@@ -26,7 +26,7 @@ function removeElementFromBeginningOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array, element){
-  return arry.pop(1)
+  return array.pop(1)
 }
 
 
